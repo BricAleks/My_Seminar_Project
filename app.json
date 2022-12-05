@@ -1,0 +1,32 @@
+{
+  "id": "4445e7c0-7e22-4dcf-8893-b0228511f102",
+  "name": "Academy Development 051222",
+  "publisher": "Academy Course 051222",
+  "version": "21.0.0.0",
+  "brief": "Academy Development 051222",
+  "description": "Academy Development 051222 December Week 5-9",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
